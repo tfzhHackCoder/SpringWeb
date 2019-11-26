@@ -21,6 +21,7 @@ public class Constant {
      * 分页条数
      */
     public static final int pageSize=10;
+    public static final String NORMALTIME = "yyyy-MM-dd mm:hh:dd";
 
     /**
      * 菜单类型
